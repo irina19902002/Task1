@@ -1,7 +1,6 @@
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 public class DeclarationOfLove {
     public static void main(String[] args) {
         double length;
